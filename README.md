@@ -1,2 +1,3 @@
 # lsfrsv
-Tool to dump LSF reservation statistics.
+Tool to dump LSF active reservation statistics.
+
